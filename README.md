@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+ arfan Ryo Darmawan 2010631170057
 - [Dellia Deltania] - [2010631170063]
 [Dela Amaliya] - [2010631170062]
 - [Iqbal Kurniawan] - [2010631170012]
