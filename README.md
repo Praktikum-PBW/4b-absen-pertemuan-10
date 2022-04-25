@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Fajri Yanti - 2010631170069
 - [Elvin Alan Pratama] - [2010631170065]
 - [Ardianto Nugroho] - [2010631170056]
 - [Assyifa Khalif] - [2010631170058]
