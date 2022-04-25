@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Elvin Alan Pratama] - [2010631170065]
 - [Ardianto Nugroho] - [2010631170056]
 - [Assyifa Khalif] - [2010631170058]
  arfan Ryo Darmawan 2010631170057
