@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 10
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Bayu Wildan Bahari - 2010631170059
 - Irna Purnahasanah - 2010631170014
 - [Annisa Rahma Putri] - [2010631170055]
 - [Ilham Rizki Nurhudaya] - [2010631170010]
